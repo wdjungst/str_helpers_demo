@@ -1,4 +1,5 @@
 require "str_helper_wdj/version"
+require "str_helper_wdj/greeting"
 
 module StrHelperWdj
   def self.reversify(str)
